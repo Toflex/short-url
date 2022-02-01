@@ -1,0 +1,19 @@
+.header {
+    padding: 10px;
+    background-color: aqua;
+}
+
+.center-content{
+    border: 2px solid rgb(0, 0, 0);
+    width: 80%;
+    margin: 10% auto;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: rgba(0, 0, 0, 0.582) 3px 3px;
+    justify-content: center;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
